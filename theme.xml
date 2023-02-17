@@ -9,8 +9,8 @@
      <m_default>Rhaydix</m_default>
    </m_provider>
    <m_packageImageFilePath>bg1.png</m_packageImageFilePath>
-   <m_homePreviewFilePath>bg2.png</m_homePreviewFilePath>
-   <m_startPreviewFilePath>bg3.png</m_startPreviewFilePath>
+   <m_homePreviewFilePath>preview_page.png</m_homePreviewFilePath>
+   <m_startPreviewFilePath>preview_lockscreen.png</m_startPreviewFilePath>
  </InfomationProperty>
  <StartScreenProperty>
    <m_dateColor>ffffb84b</m_dateColor>
